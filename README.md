@@ -4,8 +4,8 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Built with ❤️](https://img.shields.io/badge/built%20with-%E2%9D%A4-red)
 
-![IBM Certificates](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjA1ZW5tbTdnNmNkOHo4dmRzM3BlMTRmcnVoaGU0d3RpNmdhNjdheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8xusSHsJGepz3UbtX/giphy.gif)
-
+<p align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjA1ZW5tbTdnNmNkOHo4dmRzM3BlMTRmcnVoaGU0d3RpNmdhNjdheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8xusSHsJGepz3UbtX/giphy.gif" alt="IBM Certificates" /></p>  
+  
 This repository contains the **mandatory IBM certificates** required by Holberton School France, along with **additional optional modules** completed to broaden my knowledge in data science, development, and open-source collaboration.
 
 ---
@@ -56,14 +56,14 @@ In addition to the required training, I completed several **optional IBM courses
 
 ## 📁 Repository Structure
 
-📦 holbertonschool-france-certificates-ibm/
-├── 📁 certificates-trimester-1/      # IBM certificates for the first trimester
-│   ├── 📄 certificate-agile.pdf
-│   ├── 📄 certificate-oss.pdf
-│   ├── 📄 IBM_Bid Data 101.pdf
-│   ├── 📄 Principes fondamentaux du développement Web.pdf
-│   └── 📄 README.md
-└── 📄 README.md
+📦 holbertonschool-france-certificates-ibm/  
+├── 📁 certificates-trimester-1/      # IBM certificates for the first trimester  
+│   ├── 📄 certificate-agile.pdf  
+│   ├── 📄 certificate-oss.pdf  
+│   ├── 📄 IBM_Bid Data 101.pdf  
+│   ├── 📄 Principes fondamentaux du développement Web.pdf  
+│   └── 📄 README.md  
+└── 📄 README.md  
 
 ## ⚙️ Usage
 
