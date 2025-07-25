@@ -1,17 +1,17 @@
 # Holberton School France – IBM Certificates
-
+  
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Built with ❤️](https://img.shields.io/badge/built%20with-%E2%9D%A4-red)
-
+  
 <p align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjA1ZW5tbTdnNmNkOHo4dmRzM3BlMTRmcnVoaGU0d3RpNmdhNjdheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8xusSHsJGepz3UbtX/giphy.gif" alt="IBM Certificates" /></p>  
   
-This repository contains the **mandatory IBM certificates** required by Holberton School France, along with **additional optional modules** completed to broaden my knowledge in data science, development, and open-source collaboration.
+This repository contains the **mandatory IBM certificates** required by Holberton School France, along with **additional optional modules** completed to broaden my knowledge in data science, development, and open-source collaboration.  
 
 ---
 
 ## 🧾 Index
-
+  
 - [📚 Context](#-context)
 - [📜 Certificates](#-certificates)
 - [🛠️ Technologies & Skills Developed](#️-technologies--skills-developed)
@@ -22,7 +22,7 @@ This repository contains the **mandatory IBM certificates** required by Holberto
 ---
 
 ## 📚 Context
-
+  
 This repository documents all **mandatory IBM modules** completed as part of the Holberton School France program. Each certificate demonstrates acquired skills in:
 
 - Agile methodologies  
@@ -33,20 +33,20 @@ In addition to the required training, I completed several **optional IBM courses
 ---
 
 ## 📜 Certificates
-
+  
 | N°  | Mandatory | Module                                            | Status |
 |-----|-----------|---------------------------------------------------|--------|
 | 01  | ✅         | Introduction to Open Source                      | ✅     |
 | 02  | ✅         | Agile Explorer                                   | ✅     |
 | 03  | ❌         | Big Data 101                                     | ✅     |
 | 04  | ❌         | Principes fondamentaux du développement Web      | ✅     |
-| 05  | ❌         | Explorer les technologies émergentes             |   |
-| 06  | ❌         | Présenter avec un objectif                       |      |
+| 05  | ❌         | Explorer les technologies émergentes             | ⏳ |
+| 06  | ❌         | Présenter avec un objectif                       |   ⏳  |
 
 ---
 
 ## 🛠️ Technologies & Skills Developed
-
+  
 - 🌐 **Web fundamentals** – HTML, CSS  
 - 🔧 **Tools for Dev & Data** – IBM Cloud, GitHub  
 - 🧠 **Agile methodology** – iterative development  
@@ -55,7 +55,7 @@ In addition to the required training, I completed several **optional IBM courses
 ---
 
 ## 📁 Repository Structure
-
+  
 📦 holbertonschool-france-certificates-ibm/  
 ├── 📁 certificates-trimester-1/      # IBM certificates for the first trimester  
 │   ├── 📄 certificate-agile.pdf  
@@ -66,32 +66,31 @@ In addition to the required training, I completed several **optional IBM courses
 └── 📄 README.md  
 
 ## ⚙️ Usage
-
+  
 To get started:
 
-```c
-git clone https://github.com/CecileLAROCHE/holbertonschool-france-certificates-ibm.git cd holbertonschool-france-certificates-ibm
+```text
+git clone https://github.com/CecileLAROCHE/holbertonschool-france-certificates-ibm.git  
+cd holbertonschool-france-certificates-ibm  
 ```
 
-    Navigate to the certificates-trimester-1/ folder to view certificates
-
-    Open the README.md files for context and descriptions
-
-    Projects and notebooks will be added in projects/ (coming soon)
-
+Navigate to the certificates-trimester-1/ folder to view certificates
+  
+Open the README.md files for context and descriptions
+  
 ## ℹ️ About  
-
+  
 Created as part of the Holberton School France curriculum, this repository reflects my learning journey through the IBM Data Science Professional Certificate and related trainings.  
 
 ## 🧾 License  
-
+  
 This project is licensed under the MIT License.
 See the LICENSE file for more details.  
 
 ## 🙋‍♀️ Author  
-
-Cécile Laroche
-💼 Holberton School France Student.
-
+  
+Cécile Laroche  
+💼 Holberton School France Student.  
+  
 Last updated: July 25, 2025  
   
