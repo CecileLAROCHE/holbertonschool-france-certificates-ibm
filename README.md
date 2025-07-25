@@ -1,34 +1,97 @@
 # Holberton School France – IBM Certificates
 
-![certificats_ibm](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjA1ZW5tbTdnNmNkOHo4dmRzM3BlMTRmcnVoaGU0d3RpNmdhNjdheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8xusSHsJGepz3UbtX/giphy.gif)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Built with ❤️](https://img.shields.io/badge/built%20with-%E2%9D%A4-red)
 
-This repositories is containing mandatory IBM certificates for Holberton School and more
-  
+![IBM Certificates](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjA1ZW5tbTdnNmNkOHo4dmRzM3BlMTRmcnVoaGU0d3RpNmdhNjdheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8xusSHsJGepz3UbtX/giphy.gif)
+
+This repository contains the **mandatory IBM certificates** required by Holberton School France, along with **additional optional modules** completed to broaden my knowledge in data science, development, and open-source collaboration.
+
+---
+
 ## 🧾 Index
 
-- [Context](#context)
-- [Certificates](#-certificates)
-- [Technologies & Skills Developed](#technologies--skills-developed)
-- [Organization of the Repository](#organization-of-the-repository)
-- [Usage](#usage)
-- [About](#about)
+- [📚 Context](#-context)
+- [📜 Certificates](#-certificates)
+- [🛠️ Technologies & Skills Developed](#️-technologies--skills-developed)
+- [📁 Repository Structure](#-repository-structure)
+- [⚙️ Usage](#️-usage)
+- [ℹ️ About](#ℹ️-about)
+
+---
+
+## 📚 Context
+
+This repository documents all **mandatory IBM modules** completed as part of the Holberton School France program. Each certificate demonstrates acquired skills in:
+
+- Agile methodologies  
+- Open-source collaboration  
+
+In addition to the required training, I completed several **optional IBM courses** to deepen my understanding of current and emerging technologies.
+
+---
+
+## 📜 Certificates
+
+| N°  | Mandatory | Module                                            | Status |
+|-----|-----------|---------------------------------------------------|--------|
+| 01  | ✅         | Introduction to Open Source                      | ✅     |
+| 02  | ✅         | Agile Explorer                                   | ✅     |
+| 03  | ❌         | Big Data 101                                     | ✅     |
+| 04  | ❌         | Principes fondamentaux du développement Web      | ✅     |
+| 05  | ❌         | Explorer les technologies émergentes             |   |
+| 06  | ❌         | Présenter avec un objectif                       |      |
+
+---
+
+## 🛠️ Technologies & Skills Developed
+
+- 🌐 **Web fundamentals** – HTML, CSS  
+- 🔧 **Tools for Dev & Data** – IBM Cloud, GitHub  
+- 🧠 **Agile methodology** – iterative development  
+- 🔓 **Open Source** – contributions, licenses, Git best practices  
+
+---
+
+## 📁 Repository Structure
+
+📦 holbertonschool-france-certificates-ibm/
+├── 📁 certificates-trimester-1/      # IBM certificates for the first trimester
+│   ├── 📄 certificate-agile.pdf
+│   ├── 📄 certificate-oss.pdf
+│   ├── 📄 IBM_Bid Data 101.pdf
+│   ├── 📄 Principes fondamentaux du développement Web.pdf
+│   └── 📄 README.md
+└── 📄 README.md
+
+## ⚙️ Usage
+
+To get started:
+
+```c
+git clone https://github.com/CecileLAROCHE/holbertonschool-france-certificates-ibm.git cd holbertonschool-france-certificates-ibm
+```
+
+    Navigate to the certificates-trimester-1/ folder to view certificates
+
+    Open the README.md files for context and descriptions
+
+    Projects and notebooks will be added in projects/ (coming soon)
+
+## ℹ️ About  
+
+Created as part of the Holberton School France curriculum, this repository reflects my learning journey through the IBM Data Science Professional Certificate and related trainings.  
+
+## 🧾 License  
+
+This project is licensed under the MIT License.
+See the LICENSE file for more details.  
+
+## 🙋‍♀️ Author  
+
+Cécile Laroche
+💼 Holberton School France Student.
+
+Last updated: July 25, 2025  
   
-## Context
-
-This repository documents all the mandatory IBM modules completed as part of the Holberton School France program. Each certificate and module is stored there and serves as a demonstration of the skills acquired in the fields of data science and artificial intelligence.
-It also documents the non-mandatory training I have completed to complement my skills and expand my knowledge.
-
-## Certificates Mandatory
-  
-Here are the certificates included
-  
-| N°  | Mandatory | Module                                           | État |
-|-----|-----------|--------------------------------------------------|------|
-| 01  | ✅ | Introduction to Open Source                     | ✅   |
-| 02  | ✅  | Agile Explorer                                  | ✅   |
-| 03  |-| Big Data 101                                     | ✅   |
-| 04  |-| Principes fondamentaux du développement Web      | ✅   |
-| 05  |-| —                                                | ✅   |
-| 06  |-| —                                                | ✅   |
-
-
