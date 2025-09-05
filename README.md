@@ -36,13 +36,14 @@ In addition to the required training, I completed several **optional IBM courses
   
 | N°  | Mandatory | Module                                            | Status |
 |-----|-----------|---------------------------------------------------|--------|
-| 01  | ✅         | Introduction to Open Source                      | ✅     |
-| 02  | ✅         | Agile Explorer                                   | ✅     |
-| 03  | ❌         | Big Data 101                                     | ✅     |
-| 04  | ❌         | Principes fondamentaux du développement Web      | ✅     |
-| 05  | ❌         | Explorer les technologies émergentes             | ⏳ |
-| 06  | ❌         | Présenter avec un objectif                       |   ⏳  |
-| 07  | ✅         | SQL and Relational Databases 101                 | ✅     |
+| 01  | ✅         | Introduction to Open Source                      |   ✅   |
+| 02  | ✅         | Agile Explorer                                   |   ✅   |
+| 03  | ❌         | Big Data 101                                     |   ✅   |
+| 04  | ❌         | Principes fondamentaux du développement Web      |   ✅   |
+| 05  | ❌         | Developpement de site web                        |   ✅   |
+| 06  | ❌         | Explorer les technologies émergentes             |   ⏳   |
+| 07  | ❌         | Présenter avec un objectif                       |   ⏳   |
+| 08  | ✅         | SQL and Relational Databases 101                 |   ✅   |
 
 
 ---
@@ -64,6 +65,7 @@ In addition to the required training, I completed several **optional IBM courses
 │   ├── 📄 certificate-oss.pdf  
 │   ├── 📄 IBM_Bid Data 101.pdf  
 │   ├── 📄 Principes fondamentaux du développement Web.pdf  
+│   ├── 📄 Certificat-Developpement_de_site_pour_le_web.pdf
 │   └── 📄 README.md  
 ├── 📁 certificates-trimester-2/      # IBM certificates for the second trimester  
 │   ├── 📄 certificate-sql.pdf
@@ -97,5 +99,5 @@ See the LICENSE file for more details.
 Cécile Laroche  
 💼 Holberton School France Student.  
   
-Last updated: July 25, 2025  
+Last updated: September 5th, 2025  
   
