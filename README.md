@@ -42,6 +42,8 @@ In addition to the required training, I completed several **optional IBM courses
 | 04  | ❌         | Principes fondamentaux du développement Web      | ✅     |
 | 05  | ❌         | Explorer les technologies émergentes             | ⏳ |
 | 06  | ❌         | Présenter avec un objectif                       |   ⏳  |
+| 07  | ✅         | SQL and Relational Databases 101                 | ✅     |
+
 
 ---
 
@@ -62,6 +64,9 @@ In addition to the required training, I completed several **optional IBM courses
 │   ├── 📄 certificate-oss.pdf  
 │   ├── 📄 IBM_Bid Data 101.pdf  
 │   ├── 📄 Principes fondamentaux du développement Web.pdf  
+│   └── 📄 README.md  
+├── 📁 certificates-trimester-2/      # IBM certificates for the second trimester  
+│   ├── 📄 certificate-sql.pdf
 │   └── 📄 README.md  
 └── 📄 README.md  
 
