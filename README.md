@@ -59,14 +59,14 @@ In addition to the required training, I completed several **optional IBM courses
 ## 📁 Repository Structure
   
 📦 holbertonschool-france-certificates-ibm/  
-├── 📁 certificates-trimester-1      # IBM certificates for the first trimester
+├── 📁 certificates-trimester-1      # IBM certificates for the first trimester\
 │   ├── 📄 certificate-agile.pdf\
 │   ├── 📄 certificate-oss.pdf\
 │   ├── 📄 IBM_Bid Data 101.pdf\
 │   ├── 📄 Principes fondamentaux du développement Web.pdf\
 │   ├── 📄 Certificat-Developpement_de_site_pour_le_web.pdf\
 │   └── 📄 README.md\
-├── 📁 certificates-trimester-2      # IBM certificates for the second trimester
+├── 📁 certificates-trimester-2      # IBM certificates for the second trimester\
 │   ├── 📄 certificate-sql.pdf\
 │   ├── 📄 Explore Emerging Tech.png\
 │   └── 📄 README.md\
