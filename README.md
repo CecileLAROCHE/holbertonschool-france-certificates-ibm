@@ -41,7 +41,7 @@ In addition to the required training, I completed several **optional IBM courses
 | 03  | ❌         | Big Data 101                                     |   ✅   |
 | 04  | ❌         | Principes fondamentaux du développement Web      |   ✅   |
 | 05  | ❌         | Developpement de site web                        |   ✅   |
-| 06  | ❌         | Explorer les technologies émergentes             |   ⏳   |
+| 06  | ❌         | Explorer les technologies émergentes             |   ✅   |
 | 07  | ❌         | Présenter avec un objectif                       |   ⏳   |
 | 08  | ✅         | SQL and Relational Databases 101                 |   ✅   |
 
