@@ -45,7 +45,6 @@ In addition to the required training, I completed several **optional IBM courses
 | 07  | ❌         | Présenter avec un objectif                       |   ⏳   |
 | 08  | ✅         | SQL and Relational Databases 101                 |   ✅   |
 
-
 ---
 
 ## 🛠️ Technologies & Skills Developed
@@ -60,17 +59,18 @@ In addition to the required training, I completed several **optional IBM courses
 ## 📁 Repository Structure
   
 📦 holbertonschool-france-certificates-ibm/  
-├── 📁 certificates-trimester-1/      # IBM certificates for the first trimester  
-│   ├── 📄 certificate-agile.pdf  
-│   ├── 📄 certificate-oss.pdf  
-│   ├── 📄 IBM_Bid Data 101.pdf  
+├── 📁 certificates-trimester-1      # IBM certificates for the first trimester
+│   ├── 📄 certificate-agile.pdf
+│   ├── 📄 certificate-oss.pdf
+│   ├── 📄 IBM_Bid Data 101.pdf
 │   ├── 📄 Principes fondamentaux du développement Web.pdf  
 │   ├── 📄 Certificat-Developpement_de_site_pour_le_web.pdf
-│   └── 📄 README.md  
-├── 📁 certificates-trimester-2/      # IBM certificates for the second trimester  
+│   └── 📄 README.md
+├── 📁 certificates-trimester-2      # IBM certificates for the second trimester
 │   ├── 📄 certificate-sql.pdf
-│   └── 📄 README.md  
-└── 📄 README.md  
+│   ├── 📄 Explore Emerging Tech.png
+│   └── 📄 README.md
+└── 📄 README.md
 
 ## ⚙️ Usage
   
@@ -90,14 +90,13 @@ Open the README.md files for context and descriptions
 Created as part of the Holberton School France curriculum, this repository reflects my learning journey through the IBM Data Science Professional Certificate and related trainings.  
 
 ## 🧾 License  
-  
+
 This project is licensed under the MIT License.
 See the LICENSE file for more details.  
 
 ## 🙋‍♀️ Author  
-  
+
 Cécile Laroche  
 💼 Holberton School France Student.  
-  
+
 Last updated: September 5th, 2025  
-  
