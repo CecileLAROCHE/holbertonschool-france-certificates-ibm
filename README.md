@@ -34,16 +34,19 @@ In addition to the required training, I completed several **optional IBM courses
 
 ## 📜 Certificates
   
-| N°  | Mandatory | Module                                            | Status |
+| N°  | Mandatory | Module        | Status |
 |-----|-----------|---------------------------------------------------|--------|
-| 01  | ✅         | Introduction to Open Source                      |   ✅   |
-| 02  | ✅         | Agile Explorer                                   |   ✅   |
-| 03  | ❌         | Big Data 101                                     |   ✅   |
-| 04  | ❌         | Principes fondamentaux du développement Web      |   ✅   |
-| 05  | ❌         | Developpement de site web                        |   ✅   |
-| 06  | ❌         | Explorer les technologies émergentes             |   ✅   |
-| 07  | ❌         | Présenter avec un objectif                       |   ⏳   |
-| 08  | ✅         | SQL and Relational Databases 101                 |   ✅   |
+| 01  | ✅| Introduction to Open Source    |   ✅   |
+| 02  | ✅| Agile Explorer        |   ✅   |
+| 03  | ❌| Big Data 101 |   ✅   |
+| 04  | ❌| Principes fondamentaux du développement Web      |   ✅   |
+| 05  | ❌| Developpement de site web      |   ✅   |
+| 06  | ❌| Explorer les technologies émergentes    |   ✅   |
+| 07  | ❌| Présenter avec un objectif     |   ✅   |
+| 08  | ✅| SQL and relational databases        |   ✅   |
+| 09  | ✅| Project Management FundamentalsFundamentals       |   ✅   |
+| 10  | ✅| Introduction to Cloud Computing     |   ✅   |
+| 11  | ✅| Cybersecurity fundamentals       |   ⏳   |
 
 ---
 
@@ -58,19 +61,23 @@ In addition to the required training, I completed several **optional IBM courses
 
 ## 📁 Repository Structure
   
-📦 holbertonschool-france-certificates-ibm/  
-├── 📁 certificates-trimester-1      # IBM certificates for the first trimester\
-│   ├── 📄 certificate-agile.pdf\
-│   ├── 📄 certificate-oss.pdf\
-│   ├── 📄 IBM_Bid Data 101.pdf\
-│   ├── 📄 Principes fondamentaux du développement Web.pdf\
-│   ├── 📄 Certificat-Developpement_de_site_pour_le_web.pdf\
-│   └── 📄 README.md\
-├── 📁 certificates-trimester-2      # IBM certificates for the second trimester\
-│   ├── 📄 certificate-sql.pdf\
-│   ├── 📄 Explore Emerging Tech.png\
-│   └── 📄 README.md\
-└── 📄 README.md
+├── certificates-trimester-1\
+│   ├── Certificat-Developpement_de_site_pour_le_web.pdf\
+│   ├── certificate-agile.pdf\
+│   ├── certificate-oss.pdf\
+│   ├── Certificat-Principes_fondamentaux_du_développement_Web.pdf\
+│   ├── IBM_Bid Data 101.pdf\
+│   └── README.md\
+├── certificates-trimester-2\
+│   ├── certificate-project-management-1.png\
+│   ├── certificate-project-management-2.png\
+│   ├── certificate-project-management.pdf\
+│   ├── certificate-sql.pdf\
+│   ├── Explore Emerging Tech.png\
+│   └── README.md\
+├── certificates-trimester-3\
+│   └── certificate-cloud.pdf\
+└── README.md\
 
 ## ⚙️ Usage
   
@@ -94,9 +101,9 @@ Created as part of the Holberton School France curriculum, this repository refle
 This project is licensed under the MIT License.
 See the LICENSE file for more details.  
 
-## 🙋‍♀️ Author  
+## 🙋‍♀️ Author
 
 Cécile Laroche  
 💼 Holberton School France Student.  
 
-Last updated: September 5th, 2025  
+Last updated: January 21, 2026
